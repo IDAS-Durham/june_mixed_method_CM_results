@@ -5,9 +5,9 @@ Matrices in the Cox’s Bazar Refugee Settlement]().
 The results are reported in the following way;
 There are four contact matrix types, CM, CMV, PNCM and UNCM. 
 * CM: Total contacts per day at each venue
-* CMV: Venue normalised assuming everyone contacts everyone else at a venue
-* PNCM: Population normalised contact matrices for probabilistic contacts informed by data
-* UNCM: Venue population normalised contact matrices for probabilistic contacts informed by data
+* CMV: Venue normalised assuming everyone contacts everyone else at a venue per hour per person
+* PNCM: Population normalised contact matrices for probabilistic contacts per hour per person informed by data
+* UNCM: Venue population normalised contact matrices for probabilistic contacts per hour per person informed by data
 	
 There are three age binnings;
 * All: Ages 0-99.
