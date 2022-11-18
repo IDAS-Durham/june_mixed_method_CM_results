@@ -1,5 +1,6 @@
 # JUNE Mixed Method CM Results
-We report contact matrices derived from [JUNE-COX](github.com/UNGlobalPulse/UNGP-settlement-modelling) and [JUNE-UK](github.com/IDAS-Durham/JUNE) the details of this can be found at [A Mixed-Method Approach to Determining Contact
+
+We report contact matrices derived from [JUNE-COX](https://github.com/UNGlobalPulse/UNGP-settlement-modelling) and [JUNE-UK](https://github.com/IDAS-Durham/JUNE) the details of this can be found at [A Mixed-Method Approach to Determining Contact
 Matrices in the Cox’s Bazar Refugee Settlement]().
 
 The results are reported in the following way;
